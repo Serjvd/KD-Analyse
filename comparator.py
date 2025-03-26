@@ -1,4 +1,3 @@
-@ -0,0 +1,401 @@
 """
 Module voor het vergelijken van twee kwalificatiedossiers.
 """
