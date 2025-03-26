@@ -1,4 +1,3 @@
-@ -0,0 +1,225 @@
 """
 Module voor het extraheren van tekst uit PDF-bestanden van kwalificatiedossiers.
 """
