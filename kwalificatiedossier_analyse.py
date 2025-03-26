@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import tempfile
 import os
-from inhoudsanalyse_excel_export import vergelijk_werkprocessen
+from kwalificatiedossier_analyse import vergelijk_werkprocessen
 
 def main():
     st.set_page_config(page_title="Kwalificatiedossier inhoudelijke analyse", layout="wide")
