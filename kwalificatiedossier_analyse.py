@@ -5,8 +5,8 @@ import os
 from inhoudsanalyse_excel_export import vergelijk_werkprocessen
 
 def main():
-    st.set_page_config(page_title="Kwalificatiedossier Vergelijker", layout="wide")
-    st.title("📄 Vergelijk kwalificatiedossiers")
+    st.set_page_config(page_title="Kwalificatiedossier inhoudelijke analyse", layout="wide")
+    st.title("📄 Vergelijk kwalificatiedossiers - inhoudelijke analyse")
 
     st.markdown("""
         Upload hieronder een oud en een nieuw kwalificatiedossier in PDF-formaat.
